@@ -1,0 +1,11 @@
+C:\Users\humao\source\repos\Algorithm\obj\Debug\Algorithm.csproj.AssemblyReference.cache
+C:\Users\humao\source\repos\Algorithm\obj\Debug\Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\humao\source\repos\Algorithm\obj\Debug\Algorithm.Main.resources
+C:\Users\humao\source\repos\Algorithm\obj\Debug\Algorithm.Properties.Resources.resources
+C:\Users\humao\source\repos\Algorithm\obj\Debug\Algorithm.csproj.GenerateResource.cache
+C:\Users\humao\source\repos\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\humao\source\repos\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\humao\source\repos\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\humao\source\repos\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\humao\source\repos\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\humao\source\repos\Algorithm\obj\Debug\Algorithm.pdb
